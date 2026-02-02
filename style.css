@@ -84,7 +84,7 @@ section h3 {
     background: #3b82f6;
 }
 
-/* Valores das habilidades */
+/* Progresso das habilidades */
 .progresso.html { width: 95%; }
 .progresso.css { width: 85%; }
 .progresso.js { width: 75%; }
